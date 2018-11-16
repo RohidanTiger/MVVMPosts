@@ -55,7 +55,7 @@ dependencies {
     implementation "android.arch.lifecycle:extensions:$lifecycle_version"
 
     // Data binding Retirado por gerar erro e não influenciar o resultado
-    //kapt "com.android.databinding:compiler:$databinding_version"
+    //implementation "com.android.databinding:compiler:$databinding_version"
 
     // Room
     implementation "android.arch.persistence.room:runtime:$room_version"
