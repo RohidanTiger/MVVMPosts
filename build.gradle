@@ -7,7 +7,7 @@ buildscript {
     ext.dagger2_version = '2.16'
     ext.android_support_version = '28.0.0'
     ext.room_version = '1.1.1'
-    ext.gradle_version = '3.2.0'
+    ext.gradle_version = '3.2.1'
     ext.databinding_version = '3.1.4'
 
     repositories {
